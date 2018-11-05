@@ -1,6 +1,7 @@
 
 Pacman-Clone
 ============
+![Screenshot](http://i.imgur.com/GQcmfQY.png)
 ### [Play on Web!](http://KayleneR.github.io/)
 
 I have made a replica of the game PacMan made in Unity, following a tutorial by noobtuts (https://noobtuts.com/unity/2d-pacman-game) 
